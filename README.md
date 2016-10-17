@@ -1,4 +1,4 @@
-# Grup Developer Telegram 
+# Directory Grup Telegram untuk Developer/Software Engineers Indonesia
 
 ![Telegram Logo](https://telegram.org/img/t_logo.png)
 
@@ -20,13 +20,12 @@ Berikut adalah daftar terbuka / *directory* grup Telegram yang menarik bagi **So
 
 ## FAQ
 
-#### Kok Ga Lengkap?
+#### Kok Ga Lengkap? Masukin grup saya dong
 
 Makasih udah mau bantuin :) Pilih salah satu: 
 
 1. Create Pull Request (**recommended**)
 2. Sapa saya [di Telegram: @Lawrence](https://telegram.me/lawrence "Sapa @Lawrence di Telegram") 
-
 
 #### Ada ga sih komunitas "X" di Telegram?
 
