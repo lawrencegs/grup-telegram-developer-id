@@ -18,10 +18,16 @@ Berikut adalah daftar terbuka / *directory* grup Telegram yang menarik bagi **So
 
 **OpenStack** - OpenStack.id - [@openstackid](https://telegram.me/openstackid "@openstackid")
 
+## FAQ
 
-### Kok Ga Lengkap?
+#### Kok Ga Lengkap?
 
-Pilih salah satu: 
+Makasih udah mau bantuin :) Pilih salah satu: 
 
 1. Create Pull Request (**recommended**)
-2. [Message saya di Telegram](https://telegram.me/lawrence "Message saya di Telegram")# grup-telegram-developer
+2. Sapa saya [di Telegram: @Lawrence](https://telegram.me/lawrence "Sapa @Lawrence di Telegram") 
+
+
+#### Ada ga sih komunitas "X" di Telegram?
+
+Wah saya juga ga tau. Coba join salah satu komunitas, lalu tanya-tanya. Kalau memang ga ada, mungkin itu menunggu Anda memulainya :)
