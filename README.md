@@ -12,6 +12,8 @@ Berikut adalah daftar terbuka / *directory* grup Telegram yang menarik bagi **So
 
 **JavaScript** - NodeJS Indonesia - [@nodejs_jakarta](https://telegram.me/nodejs_jakarta "@nodejs_jakarta")
 
+**Pascal** - Pascal Indonesia - [@PascalID](https://telegram.me/PascalID "@PascalID")
+
 ## Komunitas Teknologi / Platform
 
 **Docker** - Docker.ID - [@dockerid](https://telegram.me/dockerid "@dockerid")
