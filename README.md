@@ -4,6 +4,10 @@
 
 Berikut adalah daftar terbuka / *directory* grup Telegram yang menarik bagi **Software Engineer / Developer Indonesia** 
 
+## Komunitas Bootcamp
+
+**FreeCodeCampJakarta** - FreeCodeCamp Jakarta - [@freeCodeCampJakarta](https://telegram.me/freecodecampjakarta "@freeCodeCampJakarta")
+
 ## Komunitas Bahasa Pemrograman
 
 **Go** - GoLang Indonesia - [@golangID](https://telegram.me/golangID "@golangID")
@@ -13,6 +17,12 @@ Berikut adalah daftar terbuka / *directory* grup Telegram yang menarik bagi **So
 **JavaScript** - NodeJS Indonesia - [@nodejs_jakarta](https://telegram.me/nodejs_jakarta "@nodejs_jakarta")
 
 **Pascal** - Pascal Indonesia - [@PascalID](https://telegram.me/PascalID "@PascalID")
+
+**Python** - Python Indonesia [@pythonID](https://telegram.me/phytonID "@pythonID")
+
+## Komunitas Framework
+
+**Django** - Django Indonesia - [@DjangoID](https://telegram.me/DjangoID "@DjangoID")
 
 ## Komunitas Teknologi / Platform
 
